@@ -1,8 +1,8 @@
-# Heading #
+# Heading 
 #### Process:
-	1. Point 1.
-	2. Ponit 2.
-	3. Point 3.
+ 1. Point 1.
+ 2. Ponit 2.
+ 3. Point 3.
 
  
 
